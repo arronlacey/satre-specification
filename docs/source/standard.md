@@ -8,6 +8,7 @@ The SATRE standard has been developed based on the following principles:
 
 - TREs should be as as easy as possible for end-users to use (_e.g._ researchers) whilst still remaining secure.
 - TRE deployments should be offered that support data of different levels of sensitivity (_e.g._ through a tiered system of technical controls and policies).
+- The standard prioritizes open source technologies where possible.
 - TREs conforming to the standard should be interoperable and provide a familiar end-user experience.
 - The standard will be managed and updated following an open, community-driven process, and will not be tied to a single vendor or implementation.
 
